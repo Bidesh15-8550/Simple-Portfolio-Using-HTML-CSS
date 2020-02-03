@@ -102,3 +102,6 @@ h3 {
 .main img:hover{
   cursor: pointer;
 }
+.content a{
+  text-decoration: none;
+}
